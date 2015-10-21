@@ -13,3 +13,7 @@ También cosas tan simples (pero útiles) como los distintos **ejercicios prác
 **Estar comunicados** y saber que es lo que están haciendo los demás y en que podemos ayudar.
 
 **Plantear mejoras** que se pueden hacer a nivel de la carrera como nuevas materias, actualización de los contenidos que se dictan en cada una.
+
+### Proponer ideas
+
+Para proponer cosas que les parezcan interesantes **crear un nuevo [issue](https://github.com/TecnologoInformaticaPaysandu/InformacionGeneral/issues/new)** con su correspondiente label **idea**
